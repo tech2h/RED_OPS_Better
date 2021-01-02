@@ -29,5 +29,3 @@ mode = both
 api = https://orpheus.network
 source = OPS
 piece_length = 18
-
-
